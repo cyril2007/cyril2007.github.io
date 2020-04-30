@@ -13,19 +13,13 @@ const ap = new APlayer({
     lrcType: 0, //歌词传递方式
     audio: [ //音频信息,包含以下
         {
-            name: 'Cytus II Theme - Used to be', //音频名称
-            artist: 'KIVΛ', //音频艺术家
-            url: 'http://m10.music.126.net/20200430092246/ed82433328f9343d211cf75fcd13493a/ymusic/0f5d/535a/055c/878919ff8bd09a202e6e26304d17797a.mp3', //音频外链
+            name: '午夜の待ち合わせ', //音频名称
+            artist: '三无MarBlue', //音频艺术家
+            url: 'https://wsaudiobssdlbig.kugou.com/2004300936/odeBILQjn9UuvlUji0aulw/1588296994/bss/extname/wsaudio/4eead278809585b245b64883be24068f.mp3', //音频外链
             cover: 'http://p2.music.126.net/lTQNrOTbYD3NVhWwKMXOOg==/109951164489323061.jpg', //音频封面
-            lrc: 'http://m10.music.126.net/20200430090130/6dd566d681f8df6d70c5c8f7391d2393/ymusic/0f5d/535a/055c/878919ff8bd09a202e6e26304d17797a.lrc', //音频歌词，配合上面的lrcType使用
+            lrc: 'https://wsaudiobssdlbig.kugou.com/2004300936/odeBILQjn9UuvlUji0aulw/1588296994/bss/extname/wsaudio/4eead278809585b245b64883be24068f.lrc', //音频歌词，配合上面的lrcType使用
         }, 
-        {
-            name: '一目惚れ', //音频名称
-            artist: 'バンドハラスメント', //音频艺术家
-            url: 'http://m10.music.126.net/20200430085933/21dc2ee15ace5d5e041ade858fe5c5aa/ymusic/020f/565a/5252/5e051dd85aa0ea1673a5e8493ba29ccd.mp3', //音频外链
-            cover: 'http://p1.music.126.net/ammyavjPOiQEyRBIghl_sA==/109951164612058107.jpg', //音频封面
-            lrc: 'dist/music/This is the show.lrc', //音频歌词，配合上面的lrcType使用
-        },
+
         
     ]
 });
