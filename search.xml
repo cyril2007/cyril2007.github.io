@@ -1,119 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Welcome</title>
-    <url>/2020/04/02/%E5%88%9D%E5%A7%8B%E5%8C%96/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="http://s1.wailian.download/2020/04/30/3e1c924bd95013bf30f2acd9f9e64893.jpg" alt="Welcome"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>城市天际线CitiesSkylines入门学习摘录</title>
-    <url>/2020/04/30/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BFCitiesSkylines%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%E6%91%98%E5%BD%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>城市天际线 Cities: Skylines 入门学习</p>
-<p>最后更新时间：2020/4/30 </p>
-<p>来自天际线中文百科全书 <a href="http://www.cities-skylines.cn/homepage" target="_blank" rel="noopener">http://www.cities-skylines.cn/homepage</a></p>
-<p>文章向左划查看目录</p>
-<h1 id="关于游戏"><a href="#关于游戏" class="headerlink" title="关于游戏"></a>关于游戏</h1><p>城市天际线是一款城市建造模拟类经营游戏，借鉴现实城市的建造经历，融入了大量极为真实的城市经营模拟元素，使得游戏过程充满更多的刺激与挑战。采用 Unity 3D 引擎，由 Colossal Order 开发，并由 Paradox Interactive 发行。</p>
-<h2 id="主要游戏内容"><a href="#主要游戏内容" class="headerlink" title="主要游戏内容"></a>主要游戏内容</h2><p>多维度并极具挑战的模拟引擎： 从零开始建造一座城市非常容易上手，但却很难运筹帷幄。作为您所在城市的市长，您将面临诸多因素的平衡性需求，例如：教育、水电、警察、消防、医疗保健等市政服务，和其他的城市实体经济系统。市民对所在城市产生的各种变化会响应灵敏，十分真实，并极具吸引力。</p>
-<p>真实的交通模拟引擎： 城市天际线借鉴了 Colossal Orders 在《都市运输》中丰富的开发经历，并充分利用和精心设计、完善了其所使用的交通模拟引擎，现在，你拥有了更加真实的交通运输模拟体验。</p>
-<p>地区和政策： 你不会只是一个城管局队员。你可以为所在的城市划定区域，由此政策将会变的可用，这进一步让你真正成为这座城市的市长。</p>
-<p>广泛的模组化（MOD）支持： 支持第三方开发者以插件或模组的方式改进现有的游戏因素。同时，这些改进也可以被共享到 Steam 创意工坊，以供其他玩家免费下载和使用。</p>
-<h1 id="零：完全萌新"><a href="#零：完全萌新" class="headerlink" title="零：完全萌新"></a>零：完全萌新</h1><p>略</p>
-<h1 id="一：初学者指南"><a href="#一：初学者指南" class="headerlink" title="一：初学者指南"></a>一：初学者指南</h1><p><a href="http://www.cities-skylines.cn/wiki-passage/beginners-guide" target="_blank" rel="noopener">http://www.cities-skylines.cn/wiki-passage/beginners-guide</a></p>
-<h2 id="初学者指南（一）——道路和铁路"><a href="#初学者指南（一）——道路和铁路" class="headerlink" title="初学者指南（一）——道路和铁路"></a>初学者指南（一）——道路和铁路</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（一）——道路和铁路</p>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=24013627&bvid=BV1mp411R7zq&cid=40205672&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-有11个分P，点击到Bilibili观看
-
-
-
-<h3 id="道路-amp-铁路"><a href="#道路-amp-铁路" class="headerlink" title="道路 &amp; 铁路"></a>道路 &amp; 铁路</h3><p>1在你的城市各个主要城区间使用不被中途截断的高速公路进行连接是非常必要的；同时为了能够保证道路达到最大车流承载量，你还需要适当的在不同的位置与城市区域间使用不同等级的道路。</p>
-<p>2有时，为了缓解高速出口的大面积重型货运车辆的拥堵状况，你可以尝试在高速公路出口旁设立“临街道路”或“本地快速通道”。</p>
-<p>3路口，越少越好。同时尽量尝试避免在不必要的路口使用红绿灯，因为如果使用不当，有时它们反而会让路口变的更加拥堵，扰乱原本顺畅的车流。</p>
-<p>4环岛不应该设置的过小（环岛越小，弯道弧度越大，这意味着车辆在行驶时的转角越大，从而导致速度变慢，这使得环岛可承受的最大车流量下降，最终拥堵）。</p>
-<p>5尽可能使用单行道，特别是在工业区，因为此地通常是堵车的重灾区。然而，请留意服务建筑的有效覆盖范围和放置位置，因为即使是服务车辆，在游戏中，也无法逆行抵达目标建筑。所以这最终将导致市政服务的效率低下，6服务车辆可能无法及时抵达目标建筑。</p>
-<p>7记得不要让新诞生的城区阻断你已有的高速公路，由此只是途径此地的车辆可轻易的在各个目的地之间穿梭，而无需驶入中途的某个城区。</p>
-<p>8距离过近的路口会导致拥堵。因为刁民严格遵循“前方路口已满，则在路口外停车等待”的交通规则，当路口过近时，“前方路口”会变的非常短小，此时一辆车驶入，则该路口视为“已满”。</p>
-<p>9尝试将货运卡车从刁民的日常通勤车流中剥离开。如果两种车流混合在一条道路上，那么无论设计多么优秀的交通系统，都很有可能会因此瘫痪。为一个区域使用“禁止货运车辆通行”的政策能够对此提供有效的帮助。</p>
-<p>在工业区使用货运火车站能够非常有效的缓解拥堵情况。记住，一个货运火车站需要一个非常优秀的道路系统设计，因而每当一列火车到达货运站时，大批量的货车即可将他们的货物通过铁路发送。（单行道在这里是一个不错的选择）</p>
-<p>10火车也会堵，就像汽车那样。为了避免堵火车的情况，你可以尝试在铁路进入城市以前就将它分为两条专线：一条专用于货运火车通行，而另一条专用于客运火车通行。同时，在铁路交汇处，可以尝试修建“铁路立交”，这样当多列火车同时抵达路口时，便可以畅通无阻的驶向各自的目的地。</p>
-<p>11更多的路口、道路与高架设计，你可以参看虎牙汉界在Bilibli发布的视频城市天际线教程《从新手到老鸟系列》（一）初学者指南：数十座专业高架设计简图及实景图速览。如果你还想得到更多：带上你的纸和笔，出门转悠转悠吧。最佳的道路设计与交通系统，其实早已运用于你的实际生活当中。同时如果你在出行时途径高速公路出入口和交通枢纽，也不妨留心观察。通常，它们能为你的创造提供更多灵感。</p>
-<h2 id="初学者指南（二）——公共交通"><a href="#初学者指南（二）——公共交通" class="headerlink" title="初学者指南（二）——公共交通"></a>初学者指南（二）——公共交通</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（二）——公共交通</p>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=26726350&bvid=BV1Ys411H7hc&cid=45987794&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-有4个分P，点击到BILIBILI观看
-
-
-
-<h3 id="公共交通"><a href="#公共交通" class="headerlink" title="公共交通"></a>公共交通</h3><p>公共交通的主要目的是通过为你的刁民提供新的出行方案来减少道路上私家车的车流量，这对建立一个高效运行的城市至关重要。</p>
-<p>1尽早的开始使用公共交通工具，并尽可能的保持线路的简洁。</p>
-<p>2公交车非常便宜，能有效降低私家车流量，但是太多的公交车同时靠站会导致拥堵。</p>
-<p>3地铁是最有效的公共交通系统，但价格也相当昂贵。与地铁系统相辅相成的、混合其他简单公共交通构建而成的区域交通枢纽是最有效的整体交通解决方案。</p>
-<p>4目前，旅客列车对于城市内的客流运输效果较差，但在对于将城外的游客带到城内则非常有用。将它们广泛分布在大型城市中的各个区域会使得游客进入城市的效率变得高效。而且，使用独立建造的专用客运铁路线来开行客运列车，防止与货运列车采用同一铁路线运行路造成火车拥堵是一个不错的主意。</p>
-<p>5增加指定类型公共交通的预算,将增加该类型公共交通每条线路上启用的交通工具得到数量。</p>
-<p>6更长的线路和更多的停靠点，会使得调度站为此路线派出更多的车辆。</p>
-<p>7公共交通站点也是一种服务，可用于增加地区的幸福感，从而带动建筑等级提升。</p>
-<p>8公共交通线路在其路线经过所有类型的区域时最有效（办公区除外，因为它们对于交通的需求量不大）。</p>
-<p>9通勤交通通常发生在商业区之间，工业交通则通常发生在工业区之间，而在工厂向商业区运输货物时，则会出现在工业区和商业区之间。</p>
-<p>10商业区内公共交通的需求量最大，尤其当商业区域是某商业专精类型时更是如此。</p>
-<h2 id="初学者指南（三）——市政服务"><a href="#初学者指南（三）——市政服务" class="headerlink" title="初学者指南（三）——市政服务"></a>初学者指南（三）——市政服务</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（三）——市政服务</p>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=26902675&bvid=BV1Zs411J764&cid=46324412&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-### 市政服务
-
-
-
-<p>1请注意，市政服务存在有效覆盖范围，因此在你的城市不断扩张时，超过已有服务范围的区域需要增建多个相同的市政服务设施。相关信息视图会显示出标记为绿色的道路来显示哪些区域在该类型的市政服务建筑的高效服务范围内，而哪些不在高效服务范围之内。</p>
-<p>2市政服务不仅有服务范围，还必须依靠路面交通来到达他们所需提供服务的地方。因此，严重的交通拥堵或糟糕的道路布局会严重降低服务设施的服务效率，甚至导致其服务能力完全失效。</p>
-<p>3某些服务性建筑，如垃圾填埋场和墓地，必须完全腾空后才能搬迁或拆除。通过其他同类型的服务性建筑车辆，可将垃圾填埋场中的垃圾和墓地中的尸体运输到其他同类型的服务性建筑中进行处理。</p>
-<p>4不要在受污染的地面上建造水塔，或在污水出口的下游建造水库和抽水机。</p>
-<p>5公园和市政服务能够增加土地价值，同时也增加了该地区的吸引力，这同时刺激了这些地区的经济发展（建筑升级）。</p>
-<p>6最佳的水管覆盖范围是两条平行管道之间花费440科朗（22u长度），这会让平行水管之间的重叠区域达到最小值，又同时确保了水管的有效覆盖范围内，都得到供水和污水处理服务。</p>
-<p>7高压电塔不需要接触到到建筑物，只需要建造在电力信息图中能够看到的蓝色轮廓里即可通电，距离相近的建筑也会互相输电，无需建造高压电塔。</p>
-<h2 id="初学者指南（四）——分区规划"><a href="#初学者指南（四）——分区规划" class="headerlink" title="初学者指南（四）——分区规划"></a>初学者指南（四）——分区规划</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（四）——分区规划</p>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=26934361&bvid=BV1ds411J7YQ&cid=46383965&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-### 发展规划
-
-
-
-<p>1记得利用区域划分和城市政策来管理城市（不仅仅是埋头修路可以解决拥堵，有时合理的政策会更加有效）。详细区域与政策</p>
-<p>2尝试将污染严重的建筑/工业与住宅区分开。</p>
-<p>3农业和林业的大多建筑没有土地污染，即使该地区没有相应的自然资源，也可以选择发展这个行业（因为它们会进口所需要的资源。）你可以在工业区和商业区之间使用它们作为缓冲区。因为虽然它们有较大的噪音污染（几乎所有的工业都有噪音污染），但商业区往往比住宅区更能忍受噪音污染的侵袭。</p>
-<p>4人行道和自行车道：不要因为它们处于“装饰”分类中就认为它们仅仅是装饰物。它们在减少车流量方面非常管用，每当有一个新的刁民选择步行或者骑车上下班，道路上就会减少一台车辆，从而缓解道路拥堵问题。你完全可以将它们视为免费的公共交通工具来使用。</p>
-<p>5分区在交通中起着重要作用。为了隔离通勤和工业交通，将商业区放在住宅区和工业区中间是不错的选择。而办公区则可以划分到任何地方，因为他们只提供工作、只有早晚的通勤车流，而在其他时刻对交通几乎没有任何需求，这减轻了交通系统的负担。</p>
-<h2 id="（五）初学者指南最终章——其他技巧"><a href="#（五）初学者指南最终章——其他技巧" class="headerlink" title="（五）初学者指南最终章——其他技巧"></a>（五）初学者指南最终章——其他技巧</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（五）——其他技巧</p>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=26948409&bvid=BV1Gs411n7ng&cid=46409688&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-### 其他提示
-
-
-
-<p>1不要在一开始就过快的扩展你的城市，因为这样会导致你的承建初始资金比预期更快的耗尽；初始资金通常只能够满足于起始的住宅区服务配套、电力、自来水厂和排污管道的建造和维护费用。</p>
-<p>2在修建建造大坝前请记得保存游戏进度，因为建造后的效果通常都与你期望中的效果大不相同。大坝也是游戏中最昂贵的建筑之一。</p>
-<p>3浏览 Steam 创意工坊寻找好的 MOD，以及优质的立交设计，这些立交通常可以改善某些关键位置的交通状况。<br>可以使用 <a href="http://terrain.party/" target="_blank" rel="noopener">http://terrain.party/</a> 获得所选现实中城市的高度图，并将其导入到城市：天际线中。使用说明已被展示在衍生讨论与外部资源中。</p>
-<p>4不要在你必需某种服务之前就进行服务建筑的放置，因为服务建筑只要产生，就会消耗你的资金。如果你能在不建造它们的情况下撑过一段时间，就先不要消耗你的资金投放服务建筑。当然有一个例外情况，那就是在游戏开始时，你必须快速扩张，这时资金消耗可能会非常大并且不会产生盈利。</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Markdown贴文初始模板</title>
+      <link href="/2020/05/01/MarkdownTest-1/"/>
+      <url>/2020/05/01/MarkdownTest-1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>视频插入例：</p><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=91003022&bvid=BV1Wj411f7re&cid=155396798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p>音乐插入例：</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1403764309&auto=1&height=66"></iframe><p>文字居中例：</p><center>这一行需要居中</center><p>文字字体例：<font face="黑体">我是黑体字</font></p><p>文字大小例：<font face="黑体" size=10>我是黑体字</font></p><p>文字颜色例：<font color=red size=72>颜色</font></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>城市天际线CitiesSkylines入门学习摘录</title>
+      <link href="/2020/04/30/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BFCitiesSkylines%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%E6%91%98%E5%BD%95/"/>
+      <url>/2020/04/30/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BFCitiesSkylines%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%E6%91%98%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>城市天际线 Cities: Skylines 入门学习</p><p>最后更新时间：2020/4/30 </p><p>来自天际线中文百科全书 <a href="http://www.cities-skylines.cn/homepage" target="_blank" rel="noopener">http://www.cities-skylines.cn/homepage</a></p><p>文章向左划查看目录</p><h1 id="关于游戏"><a href="#关于游戏" class="headerlink" title="关于游戏"></a>关于游戏</h1><p>城市天际线是一款城市建造模拟类经营游戏，借鉴现实城市的建造经历，融入了大量极为真实的城市经营模拟元素，使得游戏过程充满更多的刺激与挑战。采用 Unity 3D 引擎，由 Colossal Order 开发，并由 Paradox Interactive 发行。</p><h2 id="主要游戏内容"><a href="#主要游戏内容" class="headerlink" title="主要游戏内容"></a>主要游戏内容</h2><p>多维度并极具挑战的模拟引擎： 从零开始建造一座城市非常容易上手，但却很难运筹帷幄。作为您所在城市的市长，您将面临诸多因素的平衡性需求，例如：教育、水电、警察、消防、医疗保健等市政服务，和其他的城市实体经济系统。市民对所在城市产生的各种变化会响应灵敏，十分真实，并极具吸引力。</p><p>真实的交通模拟引擎： 城市天际线借鉴了 Colossal Orders 在《都市运输》中丰富的开发经历，并充分利用和精心设计、完善了其所使用的交通模拟引擎，现在，你拥有了更加真实的交通运输模拟体验。</p><p>地区和政策： 你不会只是一个城管局队员。你可以为所在的城市划定区域，由此政策将会变的可用，这进一步让你真正成为这座城市的市长。</p><p>广泛的模组化（MOD）支持： 支持第三方开发者以插件或模组的方式改进现有的游戏因素。同时，这些改进也可以被共享到 Steam 创意工坊，以供其他玩家免费下载和使用。</p><h1 id="零：完全萌新"><a href="#零：完全萌新" class="headerlink" title="零：完全萌新"></a>零：完全萌新</h1><p>略</p><h1 id="一：初学者指南"><a href="#一：初学者指南" class="headerlink" title="一：初学者指南"></a>一：初学者指南</h1><p><a href="http://www.cities-skylines.cn/wiki-passage/beginners-guide" target="_blank" rel="noopener">http://www.cities-skylines.cn/wiki-passage/beginners-guide</a></p><h2 id="初学者指南（一）——道路和铁路"><a href="#初学者指南（一）——道路和铁路" class="headerlink" title="初学者指南（一）——道路和铁路"></a>初学者指南（一）——道路和铁路</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（一）——道路和铁路</p><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=24013627&bvid=BV1mp411R7zq&cid=40205672&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>有11个分P，点击到Bilibili观看<h3 id="道路-amp-铁路"><a href="#道路-amp-铁路" class="headerlink" title="道路 &amp; 铁路"></a>道路 &amp; 铁路</h3><p>1在你的城市各个主要城区间使用不被中途截断的高速公路进行连接是非常必要的；同时为了能够保证道路达到最大车流承载量，你还需要适当的在不同的位置与城市区域间使用不同等级的道路。</p><p>2有时，为了缓解高速出口的大面积重型货运车辆的拥堵状况，你可以尝试在高速公路出口旁设立“临街道路”或“本地快速通道”。</p><p>3路口，越少越好。同时尽量尝试避免在不必要的路口使用红绿灯，因为如果使用不当，有时它们反而会让路口变的更加拥堵，扰乱原本顺畅的车流。</p><p>4环岛不应该设置的过小（环岛越小，弯道弧度越大，这意味着车辆在行驶时的转角越大，从而导致速度变慢，这使得环岛可承受的最大车流量下降，最终拥堵）。</p><p>5尽可能使用单行道，特别是在工业区，因为此地通常是堵车的重灾区。然而，请留意服务建筑的有效覆盖范围和放置位置，因为即使是服务车辆，在游戏中，也无法逆行抵达目标建筑。所以这最终将导致市政服务的效率低下，6服务车辆可能无法及时抵达目标建筑。</p><p>7记得不要让新诞生的城区阻断你已有的高速公路，由此只是途径此地的车辆可轻易的在各个目的地之间穿梭，而无需驶入中途的某个城区。</p><p>8距离过近的路口会导致拥堵。因为刁民严格遵循“前方路口已满，则在路口外停车等待”的交通规则，当路口过近时，“前方路口”会变的非常短小，此时一辆车驶入，则该路口视为“已满”。</p><p>9尝试将货运卡车从刁民的日常通勤车流中剥离开。如果两种车流混合在一条道路上，那么无论设计多么优秀的交通系统，都很有可能会因此瘫痪。为一个区域使用“禁止货运车辆通行”的政策能够对此提供有效的帮助。</p><p>在工业区使用货运火车站能够非常有效的缓解拥堵情况。记住，一个货运火车站需要一个非常优秀的道路系统设计，因而每当一列火车到达货运站时，大批量的货车即可将他们的货物通过铁路发送。（单行道在这里是一个不错的选择）</p><p>10火车也会堵，就像汽车那样。为了避免堵火车的情况，你可以尝试在铁路进入城市以前就将它分为两条专线：一条专用于货运火车通行，而另一条专用于客运火车通行。同时，在铁路交汇处，可以尝试修建“铁路立交”，这样当多列火车同时抵达路口时，便可以畅通无阻的驶向各自的目的地。</p><p>11更多的路口、道路与高架设计，你可以参看虎牙汉界在Bilibli发布的视频城市天际线教程《从新手到老鸟系列》（一）初学者指南：数十座专业高架设计简图及实景图速览。如果你还想得到更多：带上你的纸和笔，出门转悠转悠吧。最佳的道路设计与交通系统，其实早已运用于你的实际生活当中。同时如果你在出行时途径高速公路出入口和交通枢纽，也不妨留心观察。通常，它们能为你的创造提供更多灵感。</p><h2 id="初学者指南（二）——公共交通"><a href="#初学者指南（二）——公共交通" class="headerlink" title="初学者指南（二）——公共交通"></a>初学者指南（二）——公共交通</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（二）——公共交通</p><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=26726350&bvid=BV1Ys411H7hc&cid=45987794&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>有4个分P，点击到BILIBILI观看<h3 id="公共交通"><a href="#公共交通" class="headerlink" title="公共交通"></a>公共交通</h3><p>公共交通的主要目的是通过为你的刁民提供新的出行方案来减少道路上私家车的车流量，这对建立一个高效运行的城市至关重要。</p><p>1尽早的开始使用公共交通工具，并尽可能的保持线路的简洁。</p><p>2公交车非常便宜，能有效降低私家车流量，但是太多的公交车同时靠站会导致拥堵。</p><p>3地铁是最有效的公共交通系统，但价格也相当昂贵。与地铁系统相辅相成的、混合其他简单公共交通构建而成的区域交通枢纽是最有效的整体交通解决方案。</p><p>4目前，旅客列车对于城市内的客流运输效果较差，但在对于将城外的游客带到城内则非常有用。将它们广泛分布在大型城市中的各个区域会使得游客进入城市的效率变得高效。而且，使用独立建造的专用客运铁路线来开行客运列车，防止与货运列车采用同一铁路线运行路造成火车拥堵是一个不错的主意。</p><p>5增加指定类型公共交通的预算,将增加该类型公共交通每条线路上启用的交通工具得到数量。</p><p>6更长的线路和更多的停靠点，会使得调度站为此路线派出更多的车辆。</p><p>7公共交通站点也是一种服务，可用于增加地区的幸福感，从而带动建筑等级提升。</p><p>8公共交通线路在其路线经过所有类型的区域时最有效（办公区除外，因为它们对于交通的需求量不大）。</p><p>9通勤交通通常发生在商业区之间，工业交通则通常发生在工业区之间，而在工厂向商业区运输货物时，则会出现在工业区和商业区之间。</p><p>10商业区内公共交通的需求量最大，尤其当商业区域是某商业专精类型时更是如此。</p><h2 id="初学者指南（三）——市政服务"><a href="#初学者指南（三）——市政服务" class="headerlink" title="初学者指南（三）——市政服务"></a>初学者指南（三）——市政服务</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（三）——市政服务</p><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=26902675&bvid=BV1Zs411J764&cid=46324412&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>### 市政服务<p>1请注意，市政服务存在有效覆盖范围，因此在你的城市不断扩张时，超过已有服务范围的区域需要增建多个相同的市政服务设施。相关信息视图会显示出标记为绿色的道路来显示哪些区域在该类型的市政服务建筑的高效服务范围内，而哪些不在高效服务范围之内。</p><p>2市政服务不仅有服务范围，还必须依靠路面交通来到达他们所需提供服务的地方。因此，严重的交通拥堵或糟糕的道路布局会严重降低服务设施的服务效率，甚至导致其服务能力完全失效。</p><p>3某些服务性建筑，如垃圾填埋场和墓地，必须完全腾空后才能搬迁或拆除。通过其他同类型的服务性建筑车辆，可将垃圾填埋场中的垃圾和墓地中的尸体运输到其他同类型的服务性建筑中进行处理。</p><p>4不要在受污染的地面上建造水塔，或在污水出口的下游建造水库和抽水机。</p><p>5公园和市政服务能够增加土地价值，同时也增加了该地区的吸引力，这同时刺激了这些地区的经济发展（建筑升级）。</p><p>6最佳的水管覆盖范围是两条平行管道之间花费440科朗（22u长度），这会让平行水管之间的重叠区域达到最小值，又同时确保了水管的有效覆盖范围内，都得到供水和污水处理服务。</p><p>7高压电塔不需要接触到到建筑物，只需要建造在电力信息图中能够看到的蓝色轮廓里即可通电，距离相近的建筑也会互相输电，无需建造高压电塔。</p><h2 id="初学者指南（四）——分区规划"><a href="#初学者指南（四）——分区规划" class="headerlink" title="初学者指南（四）——分区规划"></a>初学者指南（四）——分区规划</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（四）——分区规划</p><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=26934361&bvid=BV1ds411J7YQ&cid=46383965&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>### 发展规划<p>1记得利用区域划分和城市政策来管理城市（不仅仅是埋头修路可以解决拥堵，有时合理的政策会更加有效）。详细区域与政策</p><p>2尝试将污染严重的建筑/工业与住宅区分开。</p><p>3农业和林业的大多建筑没有土地污染，即使该地区没有相应的自然资源，也可以选择发展这个行业（因为它们会进口所需要的资源。）你可以在工业区和商业区之间使用它们作为缓冲区。因为虽然它们有较大的噪音污染（几乎所有的工业都有噪音污染），但商业区往往比住宅区更能忍受噪音污染的侵袭。</p><p>4人行道和自行车道：不要因为它们处于“装饰”分类中就认为它们仅仅是装饰物。它们在减少车流量方面非常管用，每当有一个新的刁民选择步行或者骑车上下班，道路上就会减少一台车辆，从而缓解道路拥堵问题。你完全可以将它们视为免费的公共交通工具来使用。</p><p>5分区在交通中起着重要作用。为了隔离通勤和工业交通，将商业区放在住宅区和工业区中间是不错的选择。而办公区则可以划分到任何地方，因为他们只提供工作、只有早晚的通勤车流，而在其他时刻对交通几乎没有任何需求，这减轻了交通系统的负担。</p><h2 id="（五）初学者指南最终章——其他技巧"><a href="#（五）初学者指南最终章——其他技巧" class="headerlink" title="（五）初学者指南最终章——其他技巧"></a>（五）初学者指南最终章——其他技巧</h2><p>城市天际线教程《从新手到老鸟系列》初学者指南（五）——其他技巧</p><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=26948409&bvid=BV1Gs411n7ng&cid=46409688&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>### 其他提示<p>1不要在一开始就过快的扩展你的城市，因为这样会导致你的承建初始资金比预期更快的耗尽；初始资金通常只能够满足于起始的住宅区服务配套、电力、自来水厂和排污管道的建造和维护费用。</p><p>2在修建建造大坝前请记得保存游戏进度，因为建造后的效果通常都与你期望中的效果大不相同。大坝也是游戏中最昂贵的建筑之一。</p><p>3浏览 Steam 创意工坊寻找好的 MOD，以及优质的立交设计，这些立交通常可以改善某些关键位置的交通状况。<br>可以使用 <a href="http://terrain.party/" target="_blank" rel="noopener">http://terrain.party/</a> 获得所选现实中城市的高度图，并将其导入到城市：天际线中。使用说明已被展示在衍生讨论与外部资源中。</p><p>4不要在你必需某种服务之前就进行服务建筑的放置，因为服务建筑只要产生，就会消耗你的资金。如果你能在不建造它们的情况下撑过一段时间，就先不要消耗你的资金投放服务建筑。当然有一个例外情况，那就是在游戏开始时，你必须快速扩张，这时资金消耗可能会非常大并且不会产生盈利。</p>]]></content>
+      
+      
       <categories>
-        <category>游戏攻略</category>
+          
+          <category> 游戏攻略 </category>
+          
       </categories>
-      <tags>
-        <tag>游戏攻略</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Markdown贴文初始模板</title>
-    <url>/2020/05/01/MarkdownTest-1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>视频插入例：</p>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=91003022&bvid=BV1Wj411f7re&cid=155396798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-<p>音乐插入例：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1403764309&auto=1&height=66"></iframe>
-
-
-<p>文字居中例：</p>
-<center>这一行需要居中</center>
-
-
-<p>文字字体例：<font face="黑体">我是黑体字</font></p>
-<p>文字大小例：<font face="黑体" size=10>我是黑体字</font></p>
-<p>文字颜色例：<font color=red size=72>颜色</font></p>
-]]></content>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 游戏攻略 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Welcome</title>
+      <link href="/2020/04/02/%E5%88%9D%E5%A7%8B%E5%8C%96/"/>
+      <url>/2020/04/02/%E5%88%9D%E5%A7%8B%E5%8C%96/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="http://s1.wailian.download/2020/04/30/3e1c924bd95013bf30f2acd9f9e64893.jpg" alt="Welcome"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
