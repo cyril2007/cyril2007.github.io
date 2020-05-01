@@ -261,7 +261,7 @@
         
           
         
-        Um..! 2 posts in total. Keep on posting.
+        Um..! 3 posts in total. Keep on posting.
       </span>
 
       
@@ -275,6 +275,43 @@
           <div class="collection-title">
             <h1 class="archive-year" id="archive-year-2020">2020</h1>
           </div>
+        
+        
+
+        
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+
+      <h2 class="post-title">
+        
+            <a class="post-title-link" href="/2020/05/01/MarkdownTest-1/" itemprop="url">
+              
+                <span itemprop="name">Markdown贴文初始模板</span>
+              
+            </a>
+        
+      </h2>
+
+      <div class="post-meta">
+        <time class="post-time" itemprop="dateCreated"
+              datetime="2020-05-01T20:33:41+08:00"
+              content="2020-05-01" >
+          05-01
+        </time>
+      </div>
+
+    </header>
+  </article>
+
+
+
+      
+
+        
+        
+        
+
         
         
 
@@ -400,7 +437,7 @@
               
                 <a href="/archives">
               
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -643,6 +680,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: true,
+        appId: 'y1QIvr7OJYKTf4m718QeusyD-gzGzoHsz',
+        appKey: '6DBH7qcc5LKbXx3VNcjWJC19',
+        placeholder: '你想说点啥吗？',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 

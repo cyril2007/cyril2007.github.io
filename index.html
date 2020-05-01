@@ -308,6 +308,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2020/04/02/%E5%88%9D%E5%A7%8B%E5%8C%96/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2020/04/02/%E5%88%9D%E5%A7%8B%E5%8C%96/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -487,6 +497,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2020/04/30/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BFCitiesSkylines%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%E6%91%98%E5%BD%95/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2020/04/30/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BFCitiesSkylines%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%E6%91%98%E5%BD%95/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -589,6 +609,10 @@
   </section>
 
   
+  <nav class="pagination">
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="extend next" rel="next" href="/page/2/">&gt;</a>
+  </nav>
+
 
 
           </div>
@@ -636,7 +660,7 @@
               
                 <a href="/archives">
               
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -879,6 +903,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: true,
+        appId: 'y1QIvr7OJYKTf4m718QeusyD-gzGzoHsz',
+        appKey: '6DBH7qcc5LKbXx3VNcjWJC19',
+        placeholder: '你想说点啥吗？',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 

@@ -96,4 +96,24 @@
         <tag>游戏攻略</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Markdown贴文初始模板</title>
+    <url>/2020/05/01/MarkdownTest-1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>视频插入例：</p>
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=91003022&bvid=BV1Wj411f7re&cid=155396798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+<p>音乐插入例：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1403764309&auto=1&height=66"></iframe>
+
+
+<p>文字居中例：</p>
+<center>这一行需要居中</center>
+
+
+<p>文字字体例：<font face="黑体">我是黑体字</font></p>
+<p>文字大小例：<font face="黑体" size=10>我是黑体字</font></p>
+<p>文字颜色例：<font color=red size=72>颜色</font></p>
+]]></content>
+  </entry>
 </search>
