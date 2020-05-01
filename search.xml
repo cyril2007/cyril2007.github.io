@@ -97,6 +97,71 @@
       </tags>
   </entry>
   <entry>
+    <title>ASF简易命令集</title>
+    <url>/2020/05/02/ASF/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ol>
+<li>[h1]Commands 指令[/h1]</li>
+<li></li>
+<li>『以下指令中，所有&lt;&gt;符号中的内容根据实际情况更改，如bot名称（不指定为当前bot执行）、游戏的appID、密钥等，实际命令中无需&lt;&gt;符号。参考：!addlicense指令示例。』</li>
+<li>ASF Commands WiKi：<a href="https://github.com/JustArchi/ArchiSteamFarm/wiki/Commands" target="_blank">https://github.com/JustArchi/ArchiSteamFarm/wiki/Commands</a></li>
+<li></li>
+<li>!2fa <Bots> ———为指定bot生成2FA临时凭证</li>
+<li>!2fano <Bots> ——否决指定bot所有的验证请求</li>
+<li>!2faoff <Bots> ——关闭指定bot的2FA功能</li>
+<li>!2faok <Bots> ——接受指定bot所有的验证请求</li>
+<li>!addlicense <Bots> &lt;appID1,appID2…&gt; ——使指定bot激活指定ID的游戏（仅限于免费游戏）!addlicense 440,570</li>
+<li>!bl <Bots> ———————————列出指定bot交易模块中的黑名单用户</li>
+<li>!bladd <Bots> <SteamIDs64> ——为指定bot的黑名单增加用户</li>
+<li>!blrm <Bots> <SteamIDs64> ——为指定bot的黑名单删除用户</li>
+<li>!exit —————退出ASF</li>
+<li>!farm —————重启当前bot的挂卡模块</li>
+<li>!farm <Bots> ——重启指定bot的挂卡模块</li>
+<li>!help ——————弹出帮助信息（链接到wiki指令页面）</li>
+<li>!input <Bots> <Type> <Value> ——给予指定bot输入类型，Headless模式下工作</li>
+<li>!input Type：DeviceID,Login,Password,SteamGuard,SteamParentalPIN,TwoFactorAuthentication</li>
+<li>!ib <Bots> ————————列出指定Bot黑名单中的apps</li>
+<li>!ibadd <Bots> <AppIDs> ——为指定Bot的黑名单中增加apps</li>
+<li>!ibrm <Bots> <AppIDs> ——为指定Bot的黑名单删除apps</li>
+<li>!iq <Bots> ————————列出指定Bot的优先队列</li>
+<li>!iqadd <Bots> <AppIDs> ——为指定Bot的优先队列增加apps</li>
+<li>!iqrm <Bots> <AppIDs> ———为指定Bot的优先队列删除apps</li>
+<li>!leave ————让bot离开当前的群组聊天。该指令只在群组聊天中生效。</li>
+<li>!loot <Bots> ——将指定bot所有Steam物品交易给SteamMasterID</li>
+<li>!lootall —————将已启动bot所有Steam物品交易给SteamMasterID</li>
+<li>!nickname <Bots> <Nickname> ————改变指定bot的昵称</li>
+<li>!owns <Bots> &lt;appID,gameName…&gt; ——检查当前bot是否已经拥有游戏，同!oa（指定ID,游戏名,部分游戏名）!owns 440,570,!owns 440,dota,!owns roach</li>
+<li>!ownsall ——————检查所有bot是否已经拥有指定ID的游戏</li>
+<li>!password <Bots> ——显示指定bot加密后的密码（在使用PasswordFormat时）</li>
+<li>!pause <Bots> ————永久暂停指定bot，直至重启或手动恢复，使用!resume恢复</li>
+<li>!pause~ <Bots> ————暂时暂停指定bot，自动恢复</li>
+<li>!play <Bots> &lt;appID1,appID2,…&gt; ——切换至手动挂卡，让指定bot启动指定ID的游戏。使用!resume恢复自动</li>
+<li>!redeem <Bots> &lt;key1,key2,…&gt; ———指定bot激活给予的全部密钥，同!r</li>
+<li>!redeem^ <Bots> &lt;key1,key2,…&gt; ———指定bot激活给予的全部密钥，不转发，同!r^</li>
+<li>!redeem^ <Bots> <Modes> <Keys> ———使指定bot以指定模式激活key</li>
+<li>!redeem^ Modes：FD=分发，FF=转发，FKMG=补缺，SD=不分发，SF=不转发，SI=舍己 ，SKMG=不补缺 ，V=验正跳废</li>
+<li>!rejoinchat <Bots> ——强制指定bot重新加入群聊</li>
+<li>!restart ———————重启ASF进程</li>
+<li>!resume <Bots> ——恢复指定bot的!pause暂停和!play手动挂卡</li>
+<li>!start <Bots> ———启动指定的bot</li>
+<li>!startall —————启动所有bot</li>
+<li>!status <Bots> ——输出指定bot的状态，同!sa</li>
+<li>!statusall ————输出所有bot以及ASF本身的状态</li>
+<li>!stop <Bots> ——停止指定bot</li>
+<li>!transfer <Bots> <Modes> <Bots> ——使指定bot发送某类交易至指定bot</li>
+<li>!transfer Modes：A=全部，BG=背景，BO=卡包，C=卡，E=表情，F=闪卡，G=宝珠，U=其他</li>
+<li>!unpack <Bots> ——将所有补充包存储在指定Bot的库存</li>
+<li>!update —————检查在GitHub的更新（默认每24小时进行一次）</li>
+<li>!version ————显示当前版本信息</li>
+</ol>
+]]></content>
+      <categories>
+        <category>技术教程</category>
+      </categories>
+      <tags>
+        <tag>技术教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>教你如何建立一个Steam低价区/高价区小号</title>
     <url>/2020/05/01/%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AASteam%E5%B0%8F%E5%8F%B7/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一、提要"><a href="#一、提要" class="headerlink" title="一、提要"></a>一、提要</h1><p>√ 自备或教你怎样拥有一个高价/低价区代理</p>
