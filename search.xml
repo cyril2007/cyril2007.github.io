@@ -98,6 +98,52 @@
       </tags>
   </entry>
   <entry>
+    <title>Markdown贴文初始模板</title>
+    <url>/2020/05/01/MarkdownTest-1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>已有Tags：游戏攻略, 城市天际线, 技术教程, Steam相关, 学习, 论文, 语言学习, 英语学习, 神秘发声, 生活记录, 规划</p>
+<p>已有Categories：游戏攻略, 技术教程, 论文, 语言学习, 生活记录</p>
+<p>视频插入例：</p>
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=91003022&bvid=BV1Wj411f7re&cid=155396798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+音乐插入例：
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1403764309&auto=1&height=66"></iframe>
+文字居中例：
+
+<center>这一行需要居中</center>
+文字字体例：<font face="黑体">我是黑体字</font>
+
+
+
+<p>文字大小例：<font face="黑体" size=10>我是黑体字</font></p>
+<p>文字颜色例：<font color=red size=72>颜色</font></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>大学毕业设计小结</title>
+    <url>/2020/05/02/Dissertation/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+      <categories>
+        <category>论文</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>论文</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英语学习</title>
+    <url>/2020/05/02/Englishlearning/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+      <categories>
+        <category>语言学习</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>语言学习</tag>
+        <tag>英语学习</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>五月份月规划</title>
     <url>/2020/05/02/2020May/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
@@ -106,6 +152,7 @@
       </categories>
       <tags>
         <tag>生活记录</tag>
+        <tag>规划</tag>
       </tags>
   </entry>
   <entry>
@@ -205,27 +252,15 @@
       </tags>
   </entry>
   <entry>
-    <title>神秘发声教程 A</title>
+    <title>【加密的】神秘发声教程 A</title>
     <url>/2020/05/01/Weiyin/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=56081284&bvid=BV134411V7tV&cid=98019761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=56081284&bvid=BV134411V7tV&cid=98019761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
 <iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=66198907&bvid=BV1V4411m7hS&cid=114813931&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
 <iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=67739751&bvid=BV1nJ411A7tz&cid=117421482&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
 <iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=70174696&bvid=BV1tE411D73e&cid=121575549&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
 <iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=74344625&bvid=BV1SE411t7YE&cid=127169834&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
 <iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=80935838&bvid=BV1gJ411e7La&cid=138527876&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
 <iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=83813222&bvid=BV1pJ411E78J&cid=143383063&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ]]></content>
       <categories>
@@ -235,22 +270,5 @@
         <tag>技术教程</tag>
         <tag>神秘发声</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Markdown贴文初始模板</title>
-    <url>/2020/05/01/MarkdownTest-1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>视频插入例：</p>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=91003022&bvid=BV1Wj411f7re&cid=155396798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<p>音乐插入例：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1403764309&auto=1&height=66"></iframe>
-
-<p>文字居中例：</p>
-<center>这一行需要居中</center>
-
-<p>文字字体例：<font face="黑体">我是黑体字</font></p>
-<p>文字大小例：<font face="黑体" size=10>我是黑体字</font></p>
-<p>文字颜色例：<font color=red size=72>颜色</font></p>
-]]></content>
   </entry>
 </search>
