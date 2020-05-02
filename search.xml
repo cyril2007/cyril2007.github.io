@@ -94,13 +94,25 @@
       </categories>
       <tags>
         <tag>游戏攻略</tag>
+        <tag>城市天际线</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>五月份月规划</title>
+    <url>/2020/05/02/2020May/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+      <categories>
+        <category>生活记录</category>
+      </categories>
+      <tags>
+        <tag>生活记录</tag>
       </tags>
   </entry>
   <entry>
     <title>ASF简易命令集</title>
     <url>/2020/05/02/ASF/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ol>
-<li>[h1]Commands 指令[/h1]</li>
+<li>Commands 指令</li>
 <li></li>
 <li>『以下指令中，所有&lt;&gt;符号中的内容根据实际情况更改，如bot名称（不指定为当前bot执行）、游戏的appID、密钥等，实际命令中无需&lt;&gt;符号。参考：!addlicense指令示例。』</li>
 <li>ASF Commands WiKi：<a href="https://github.com/JustArchi/ArchiSteamFarm/wiki/Commands" target="_blank">https://github.com/JustArchi/ArchiSteamFarm/wiki/Commands</a></li>
@@ -159,6 +171,7 @@
       </categories>
       <tags>
         <tag>技术教程</tag>
+        <tag>Steam相关</tag>
       </tags>
   </entry>
   <entry>
@@ -188,6 +201,39 @@
       </categories>
       <tags>
         <tag>技术教程</tag>
+        <tag>Steam相关</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>神秘发声教程 A</title>
+    <url>/2020/05/01/Weiyin/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=56081284&bvid=BV134411V7tV&cid=98019761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=56081284&bvid=BV134411V7tV&cid=98019761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=66198907&bvid=BV1V4411m7hS&cid=114813931&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=67739751&bvid=BV1nJ411A7tz&cid=117421482&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=70174696&bvid=BV1tE411D73e&cid=121575549&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=74344625&bvid=BV1SE411t7YE&cid=127169834&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=80935838&bvid=BV1gJ411e7La&cid=138527876&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=83813222&bvid=BV1pJ411E78J&cid=143383063&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+]]></content>
+      <categories>
+        <category>技术教程</category>
+      </categories>
+      <tags>
+        <tag>技术教程</tag>
+        <tag>神秘发声</tag>
       </tags>
   </entry>
   <entry>
@@ -196,57 +242,15 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>视频插入例：</p>
 <iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=91003022&bvid=BV1Wj411f7re&cid=155396798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-
 <p>音乐插入例：</p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1403764309&auto=1&height=66"></iframe>
 
-
 <p>文字居中例：</p>
 <center>这一行需要居中</center>
-
 
 <p>文字字体例：<font face="黑体">我是黑体字</font></p>
 <p>文字大小例：<font face="黑体" size=10>我是黑体字</font></p>
 <p>文字颜色例：<font color=red size=72>颜色</font></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>神秘教程 A</title>
-    <url>/2020/05/01/Weiyin/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=56081284&bvid=BV134411V7tV&cid=98019761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=56081284&bvid=BV134411V7tV&cid=98019761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=66198907&bvid=BV1V4411m7hS&cid=114813931&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=67739751&bvid=BV1nJ411A7tz&cid=117421482&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=70174696&bvid=BV1tE411D73e&cid=121575549&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=74344625&bvid=BV1SE411t7YE&cid=127169834&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=80935838&bvid=BV1gJ411e7La&cid=138527876&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=83813222&bvid=BV1pJ411E78J&cid=143383063&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-]]></content>
-      <categories>
-        <category>技术教程</category>
-      </categories>
-      <tags>
-        <tag>技术教程</tag>
-      </tags>
   </entry>
 </search>
