@@ -2,13 +2,13 @@
 <search>
   <entry>
     <title>Welcome</title>
-    <url>/2020/04/02/%E5%88%9D%E5%A7%8B%E5%8C%96/</url>
+    <url>/2020/04/02/Welcome/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="http://s1.wailian.download/2020/04/30/3e1c924bd95013bf30f2acd9f9e64893.jpg" alt="Welcome"></p>
 ]]></content>
   </entry>
   <entry>
-    <title>城市天际线CitiesSkylines入门学习摘录</title>
-    <url>/2020/04/30/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BFCitiesSkylines%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%E6%91%98%E5%BD%95/</url>
+    <title>[C.E.P-First]城市天际线CitiesSkylines</title>
+    <url>/2020/04/30/CitiesSkylines/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>城市天际线 Cities: Skylines 入门学习</p>
 <p>最后更新时间：2020/4/30 </p>
 <p>来自天际线中文百科全书 <a href="http://www.cities-skylines.cn/homepage" target="_blank" rel="noopener">http://www.cities-skylines.cn/homepage</a></p>
@@ -95,68 +95,11 @@
       <tags>
         <tag>游戏攻略</tag>
         <tag>城市天际线</tag>
+        <tag>CrashEngineer</tag>
       </tags>
   </entry>
   <entry>
-    <title>Markdown贴文初始模板</title>
-    <url>/2020/05/01/MarkdownTest-1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>已有Tags：游戏攻略, 城市天际线, 技术教程, Steam相关, 学习, 论文, 语言学习, 英语学习, 神秘发声, 生活记录, 规划</p>
-<p>已有Categories：游戏攻略, 技术教程, 论文, 语言学习, 生活记录</p>
-<p>视频插入例：</p>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=91003022&bvid=BV1Wj411f7re&cid=155396798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-音乐插入例：
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1403764309&auto=1&height=66"></iframe>
-文字居中例：
-
-<center>这一行需要居中</center>
-文字字体例：<font face="黑体">我是黑体字</font>
-
-
-
-<p>文字大小例：<font face="黑体" size=10>我是黑体字</font></p>
-<p>文字颜色例：<font color=red size=72>颜色</font></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>大学毕业设计小结</title>
-    <url>/2020/05/02/Dissertation/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-      <categories>
-        <category>论文</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>论文</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英语学习</title>
-    <url>/2020/05/02/Englishlearning/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-      <categories>
-        <category>语言学习</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>语言学习</tag>
-        <tag>英语学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>五月份月规划</title>
-    <url>/2020/05/02/2020May/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-      <categories>
-        <category>生活记录</category>
-      </categories>
-      <tags>
-        <tag>生活记录</tag>
-        <tag>规划</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ASF简易命令集</title>
+    <title>ASF命令集</title>
     <url>/2020/05/02/ASF/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ol>
 <li>Commands 指令</li>
@@ -223,7 +166,7 @@
   </entry>
   <entry>
     <title>教你如何建立一个Steam低价区/高价区小号</title>
-    <url>/2020/05/01/%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AASteam%E5%B0%8F%E5%8F%B7/</url>
+    <url>/2020/05/01/Build-SteamAccount/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一、提要"><a href="#一、提要" class="headerlink" title="一、提要"></a>一、提要</h1><p>√ 自备或教你怎样拥有一个高价/低价区代理</p>
 <p>√ 教你在小号上使用礼品卡</p>
 <p>√ 平常的使用</p>
@@ -252,23 +195,22 @@
       </tags>
   </entry>
   <entry>
-    <title>【加密的】神秘发声教程 A</title>
-    <url>/2020/05/01/Weiyin/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=56081284&bvid=BV134411V7tV&cid=98019761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=56081284&bvid=BV134411V7tV&cid=98019761&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=66198907&bvid=BV1V4411m7hS&cid=114813931&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=67739751&bvid=BV1nJ411A7tz&cid=117421482&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=70174696&bvid=BV1tE411D73e&cid=121575549&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=74344625&bvid=BV1SE411t7YE&cid=127169834&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=80935838&bvid=BV1gJ411e7La&cid=138527876&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=83813222&bvid=BV1pJ411E78J&cid=143383063&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    <title>Markdown贴文初始模板</title>
+    <url>/2020/05/01/MarkdownTest-1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>视频插入例：</p>
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=91003022&bvid=BV1Wj411f7re&cid=155396798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+音乐插入例：
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1403764309&auto=1&height=66"></iframe>
+文字居中例：
+
+<center>这一行需要居中</center>
+文字字体例：<font face="黑体">我是黑体字</font>
+
+
+
+<p>文字大小例：<font face="黑体" size=10>我是黑体字</font></p>
+<p>文字颜色例：<font color=red size=72>颜色</font></p>
 ]]></content>
-      <categories>
-        <category>技术教程</category>
-      </categories>
-      <tags>
-        <tag>技术教程</tag>
-        <tag>神秘发声</tag>
-      </tags>
   </entry>
 </search>
