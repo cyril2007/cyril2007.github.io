@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Welcome</title>
+      <link href="/2021/12/23/Welcome/"/>
+      <url>/2021/12/23/Welcome/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Markdown贴文初始模板</title>
+      <link href="/2020/05/01/MarkdownTest-1/"/>
+      <url>/2020/05/01/MarkdownTest-1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>视频插入例：</p><iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=91003022&bvid=BV1Wj411f7re&cid=155396798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>音乐插入例：<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1403764309&auto=1&height=66"></iframe>文字居中例：<center>这一行需要居中</center>文字字体例：<font face="黑体">我是黑体字</font><p>文字大小例：<font face="黑体" size=10>我是黑体字</font></p><p>文字颜色例：<font color=red size=72>颜色</font></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
