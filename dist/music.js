@@ -13,11 +13,11 @@ const ap = new APlayer({
     lrcType: 0, //歌词传递方式
     audio: [ //音频信息,包含以下
         {
-            name: 'Body Talk', //音频名称
-            artist: 'Various Artists / M2U (엠투유)', //音频艺术家
-            url: 'https://link.hhtjim.com/qq/0004GRd04LnFuy.mp3', //音频外链
-            cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000001reIeb3m4CAE_1.jpg', //音频封面
-            lrc: 'https://wsaudiobssdlbig.kugou.com/2004300936/odeBILQjn9UuvlUji0aulw/1588296994/bss/extname/wsaudio/4eead278809585b245b64883be24068f.lrc', //音频歌词，配合上面的lrcType使用
+            name: '夏霞', //音频名称
+            artist: 'あたらよ', //音频艺术家
+            url: 'https://link.hhtjim.com/163/1867150097.mp3', //音频外链
+            cover: 'http://p1.music.126.net/zi2Fm_ckfMEpkM37rZ5UEg==/109951166253940594.jpg?param=130y130', //音频封面
+            lrc: '', //音频歌词，配合上面的lrcType使用
         }, 
 
         
